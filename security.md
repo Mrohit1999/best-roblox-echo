@@ -194,6 +194,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Roblox · Updated 2026-11-03 · Shared under the MIT License*
+*Roblox · Updated 2026-11-04 · Shared under the MIT License*
 
-<!-- rev 2026-11-03 -->
+<!-- rev 2026-11-04 -->
